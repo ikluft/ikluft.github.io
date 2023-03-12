@@ -1,0 +1,6 @@
+/* add CSS customizations here */
+
+body {
+    grid-template-columns: 5% 90% 5%
+}
+
