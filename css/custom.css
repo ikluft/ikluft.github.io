@@ -4,3 +4,9 @@ body {
     grid-template-columns: 5% 90% 5%
 }
 
+header {
+    background-color: transparent;
+    background-image: url('../images/Black-Rock-Desert-Aug-2005-Img_5081-cropped.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
