@@ -10,3 +10,7 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.social-icon {
+    vertical-align: middle;
+}
