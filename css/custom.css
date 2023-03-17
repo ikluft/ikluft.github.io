@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: transparent;
+    color: white;  /* fixed text color in header due to background image */
     background-image: url('../images/Black-Rock-Desert-Aug-2005-Img_5081-cropped.jpg');
     background-size: cover;
     background-repeat: no-repeat;
