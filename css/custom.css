@@ -9,9 +9,10 @@ header {
     background-image: url('../images/Black-Rock-Desert-Aug-2005-Img_5081-cropped.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    body > header {
-        padding: 0
-    }
+}
+
+body > header {
+    padding: 0
 }
 
 .social-icon {
