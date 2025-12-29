@@ -15,6 +15,10 @@ header.avgeek {
     background-image: url('../images/IMG_20250413_202532-PDX-cropped.jpg');
 }
 
+header nav a {
+    background: rgba(255, 255, 255, 0.25);
+}
+
 body > header {
     padding: 0;
 }
