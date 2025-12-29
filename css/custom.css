@@ -37,7 +37,7 @@ body > header {
     text-align: center;
 }
 
-h1, h2, h3, h4 {
+h1.clear, h2.clear, h3.clear, h4.clear {
     clear:both;
 }
 
