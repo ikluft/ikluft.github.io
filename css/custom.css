@@ -45,6 +45,14 @@ h1.clear, h2.clear, h3.clear, h4.clear {
     clear:both;
 }
 
+h1.clearleft, h2.clearleft, h3.clearleft, h4.clearleft {
+    clear:left;
+}
+
 p.clear, li.clear {
     clear:both;
+}
+
+p.clearleft, li.clearleft {
+    clear:left;
 }
